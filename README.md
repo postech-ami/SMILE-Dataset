@@ -1,5 +1,6 @@
 # SMILE: A Multimodal Dataset for Understanding Laughter with Language Models
-## paper(https://arxiv.org/pdf/2312.09818.pdf)
+## [paper](https://arxiv.org/pdf/2312.09818.pdf) 
+
 This is the repository of SMILE: A Multimodal Dataset for Understanding Laughter with Language Models, NAACL 2024.
 It comprises SMILE dataset, and codes involving the description of the dataset and evaluation for laughter reasoning.
 
