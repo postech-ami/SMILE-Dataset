@@ -1,4 +1,4 @@
-# SMILE: A Multimodal Dataset for Understanding Laughter with Language Models
+# SMILE Dataset (NAACL 2024)
 ### [Project Page](https://kim-geonu.github.io/FPRF/) | [Paper](https://arxiv.org/pdf/2312.09818.pdf)
 This repository contains dataset and pytorch implementation for the NAACL 2024 paper, [SMILE: A Multimodal Dataset for Understanding Laughter with Language Models](https://arxiv.org/pdf/2312.09818.pdf).
 
