@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="gpu06" id="249e4f8e-8113-4c0f-b46e-ecb7262c448c" port="50822" nameFormat="DESCRIPTIVE" username="sung" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
