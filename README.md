@@ -105,6 +105,20 @@ You should direct the checkpoint directory for the model_path, e.g., "SMILE/chec
 $ python FastChat/fastchat/serve/inference.py -model_path {path/for/fine-tuned model} -val_data {path/for/validation_data} -train_data {path/for/train_data} -random_seed {any integer number}
 ```
 
+## Citation
+@inproceedings{hyun-etal-2024-smile,
+    title = "{SMILE}: Multimodal Dataset for Understanding Laughter in Video with Language Models",
+    author = "Hyun, Lee  and
+      Sung-Bin, Kim  and
+      Han, Seungju  and
+      Yu, Youngjae  and
+      Oh, Tae-Hyun",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.73",
+    pages = "1149--1167"}
+
+
 ## Acknowledgement
 We are grateful for the following awesome projects, our SMILE arising from:
 - [GPT3](https://arxiv.org/pdf/2005.14165.pdf): Language Models are Few-Shot Learners
