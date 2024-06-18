@@ -106,7 +106,7 @@ $ python FastChat/fastchat/serve/inference.py -model_path {path/for/fine-tuned m
 ```
 
 ## Citation
-@inproceedings{hyun-etal-2024-smile,
+$ @inproceedings{hyun-etal-2024-smile,
     title = "{SMILE}: Multimodal Dataset for Understanding Laughter in Video with Language Models",
     author = "Hyun, Lee  and
       Sung-Bin, Kim  and
@@ -114,9 +114,7 @@ $ python FastChat/fastchat/serve/inference.py -model_path {path/for/fine-tuned m
       Yu, Youngjae  and
       Oh, Tae-Hyun",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.findings-naacl.73",
-    pages = "1149--1167"}
+    publisher = "Association for Computational Linguistics"}
 
 
 ## Acknowledgement
